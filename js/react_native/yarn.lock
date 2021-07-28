@@ -6517,8 +6517,10 @@ onetime@^5.1.0, onetime@^5.1.2:
   dependencies:
     mimic-fn "^2.1.0"
 
-"onnxruntime-common@file:../common":
-  version "1.7.0"
+onnxruntime-common@1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/onnxruntime-common/-/onnxruntime-common-1.8.0.tgz#f9c5284fc13f2d9c5215949014bc28fb38184a86"
+  integrity sha512-MNTUohJaxA87y8+981lVcrzbwyA1ZrLze44nhFvyZoOxYVM1KdgPfVE5T8e8vZBddRXyOv9cRq3NOhPvKYi85Q==
 
 open@^6.2.0:
   version "6.4.0"
