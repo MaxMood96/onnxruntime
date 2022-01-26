@@ -39,7 +39,7 @@
     "jsonc": "^2.0.0", 
     "onnx-proto": "^4.0.4", 
     "minimist": "^1.2.5", 
-    "mocha": "^8.2.1", 
+    "mocha": "^9.2.0", 
     "@types/mocha": "^8.2.2", 
     "typescript": "^4.2.4", 
     "@types/fs-extra": "^9.0.6", 
