@@ -59,7 +59,7 @@
     "karma-browserstack-launcher": "^1.6.0", 
     "jszip": "^3.7.1", 
     "@types/mocha": "^8.2.2", 
-    "electron": "^12.2.3", 
+    "electron": "^16.0.10", 
     "karma-safari-applescript-launcher": "^0.1.0", 
     "webpack-bundle-analyzer": "^4.5.0", 
     "@chiragrupani/karma-chromium-edge-launcher": "^2.1.0", 
