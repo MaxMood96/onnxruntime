@@ -1,6 +1,6 @@
 pandas
 sklearn
-numpy==1.21.0
+numpy==1.22.2
 transformers==v4.4.2
 tensorboard>=2.2.0,<2.5.0
 h5py
@@ -8,3 +8,4 @@ wget
 pytorch-lightning==1.6.0
 deepspeed==0.3.15
 fairscale
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
