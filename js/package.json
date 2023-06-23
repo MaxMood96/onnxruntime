@@ -5,7 +5,7 @@
     "clang-format": "^1.5.0",
     "eslint": "^7.25.0",
     "eslint-plugin-header": "^3.1.1",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import": "^2.25.0",
     "eslint-plugin-jsdoc": "^33.1.0",
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "eslint-plugin-unicorn": "^31.0.0",
