@@ -1,7 +1,7 @@
 pandas
 sklearn
-numpy==1.21.0
-transformers==v4.4.2
+numpy==1.22.2
+transformers==4.30.0.4.2
 tensorboard>=2.2.0,<2.5.0
 h5py
 wget
