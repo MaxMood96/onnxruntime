@@ -8,3 +8,4 @@ wget
 pytorch-lightning==1.6.0
 deepspeed==0.3.15
 fairscale
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
